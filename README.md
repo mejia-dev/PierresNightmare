@@ -1,6 +1,6 @@
 # Pierre's Pastry Horror Paradise (Pierre's Nightmare)
 
-### [Click here to play!](https://mejia.dev/pierres-nightmare)
+### [Click here to play!](https://mejia.dev/pierres-horror)
 
 ## 📝 Game Authors:
 - [Trent Dietzel](https://github.com/tdietzel)
@@ -33,6 +33,7 @@ Pierre's Pastry Horror Paradise (Pierre's Nightmare) offers a gripping 3D roguel
 
 ## 🎞 Additional Credits:
 - Initial Concept: [Henry Oberholtzer](https://github.com/henry-oberholtzer)
+- Senior Unity Consultant: [Jon Cheng](https://github.com/joncheng-dev)
 - Sound Effects: [Freesound](https://freesound.org/)
 - Models and Textures - Unity Asset Store:
   - [Abandoned buildings](https://assetstore.unity.com/packages/3d/environments/abandoned-buildings-62875)
